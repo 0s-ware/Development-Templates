@@ -1,4 +1,3 @@
-![0s Logo](https://0sware.com/assets/rsc/img/0s.png "0s logo")
 Templates for Development
 ==========================
 
