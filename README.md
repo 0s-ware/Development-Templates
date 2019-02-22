@@ -52,4 +52,5 @@ You will find four different templates:
        * video
    * includes
      * connect.inc.php
+   * close.php
    * index.php
