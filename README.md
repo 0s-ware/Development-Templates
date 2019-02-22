@@ -4,10 +4,10 @@ TeDe - Templates for Development
 In 0s, we have created **"TeDe"** for all kind of developers. We have implemented basic file templates for use HTML, CSS, Javascript and PHP. In the future we will include templates with technologies like Bootstrap, Font-Awesome and many more.
 
 For now, you will find four different templates:
-  1. Web Design
-  2. Frontend
-  3. Backend
-  4. Full-stack
+  1. &#x1F4E6; Web Design
+  2. &#x1F4E6; Frontend
+  3. &#x1F4E6; Backend
+  4. &#x1F4E6; Full-stack
   
 ------------------
 
