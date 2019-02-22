@@ -9,6 +9,14 @@ You will find four different templates:
   
 ------------------
 
+What's inside?
+| Alineado-izquierda | Centrado | Alineado-derecha |
+| :-------- | :-------: | --------: |
+| Manzanas | rojo | 5000 |
+| Plátanos | amarillo | 75 |
+
+------------------
+
 ### `Web Design`: Prepared for Web Designers & Web Developers.
 
    **web** (root directory)
