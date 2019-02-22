@@ -3,7 +3,7 @@ Templates for Development
 
 You will find four different templates:
 
-### Web Design: Prepared for Web Designers & Web Developers.
+### `Web Design`: Prepared for Web Designers & Web Developers.
 
    **web** (root directory)
    * css
@@ -18,7 +18,7 @@ You will find four different templates:
      * video
    * index.html
     
-### Frontend: Prepared for Frontend Developers.
+### `Frontend`: Prepared for Frontend Developers.
 
    **frontend** (root directory)
    * assets
@@ -34,7 +34,7 @@ You will find four different templates:
        * video
    * index.html
 
-### Backend: Prepared for Backend Developers.
+### `Backend`: Prepared for Backend Developers.
 
    **backend** (root directory)
    * admin
@@ -54,3 +54,7 @@ You will find four different templates:
      * connect.inc.php
    * close.php
    * index.php
+
+### `Full-stack`: Prepared for Full-stack Developers.
+
+   *In process*
