@@ -1,1 +1,2 @@
-# Development-Templates
+Templates for Development
+==========================
