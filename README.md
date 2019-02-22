@@ -18,4 +18,18 @@ You will find four different templates:
      * video
    * index.html
     
-   
+### Frontend: Prepared for Frontend Developers.
+
+   **frontend** (root directory)
+   * assets
+     * css
+       * style.css
+     * js
+       * script.js
+     * rsc
+       * audio
+       * fonts
+       * img
+       * files
+       * video
+   * index.html
