@@ -33,3 +33,23 @@ You will find four different templates:
        * files
        * video
    * index.html
+
+### Backend: Prepared for Backend Developers.
+
+   **backend** (root directory)
+   * admin
+     * index.php
+   * assets
+     * css
+       * style.css
+     * js
+       * script.js
+     * rsc
+       * audio
+       * fonts
+       * img
+       * files
+       * video
+   * includes
+     * connect.inc.php
+   * index.php
