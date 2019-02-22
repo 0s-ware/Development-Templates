@@ -2,6 +2,12 @@ Templates for Development
 ==========================
 
 You will find four different templates:
+  1. Web Design
+  2. Frontend
+  3. Backend
+  4. Full-stack
+  
+------------------
 
 ### `Web Design`: Prepared for Web Designers & Web Developers.
 
