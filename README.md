@@ -1,7 +1,7 @@
-Templates for Development
+Templates for Development (TeDe)
 ==========================
 
-In 0s, we have created "Templates for Development" for all kind of developers. We have implemented basic file templates for use HTML, CSS, Javascript and PHP. In the future we will include templates with technologies like Bootstrap, Font-Awesome and many more.
+In 0s, we have created "TeDe" for all kind of developers. We have implemented basic file templates for use HTML, CSS, Javascript and PHP. In the future we will include templates with technologies like Bootstrap, Font-Awesome and many more.
 
 For now, you will find four different templates:
   1. Web Design
