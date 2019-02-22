@@ -23,56 +23,55 @@ For now, you will find four different templates:
 ------------------
 
 ### `Web Design`: Prepared for Web Designers & Web Developers.
-
-   **web** (root directory)
-   * css
-     * style.css
-   * js
-     * script.js
-   * rsc
-     * audio
-     * fonts
-     * img
-     * files
-     * video
-   * index.html
+   &#x1F4C2; **web** (root directory)
+   * &#x1F4C2; css
+     * &#x1F4C4; style.css
+   * &#x1F4C2; js
+     * &#x1F4C4; script.js
+   * &#x1F4C2; rsc
+     * &#x1F4C2; audio
+     * &#x1F4C2; fonts
+     * &#x1F4C2; img
+     * &#x1F4C2; files
+     * &#x1F4C2; video
+   * &#x1F4C4; index.html
     
 ### `Frontend`: Prepared for Frontend Developers.
 
-   **frontend** (root directory)
-   * assets
-     * css
-       * style.css
-     * js
-       * script.js
-     * rsc
-       * audio
-       * fonts
-       * img
-       * files
-       * video
-   * index.html
+   &#x1F4C2; **frontend** (root directory)
+   * &#x1F4C2; assets
+     * &#x1F4C2; css
+       * &#x1F4C4; style.css
+     * &#x1F4C2; js
+       * &#x1F4C4; script.js
+     * &#x1F4C2; rsc
+       * &#x1F4C2; audio
+       * &#x1F4C2; fonts
+       * &#x1F4C2; img
+       * &#x1F4C2; files
+       * &#x1F4C2; video
+   * &#x1F4C4; index.html
 
 ### `Backend`: Prepared for Backend Developers.
 
-   **backend** (root directory)
-   * admin
-     * index.php
-   * assets
-     * css
-       * style.css
-     * js
-       * script.js
-     * rsc
-       * audio
-       * fonts
-       * img
-       * files
-       * video
-   * includes
-     * connect.inc.php
-   * close.php
-   * index.php
+   &#x1F4C2; **backend** (root directory)
+   * &#x1F4C2; admin
+     * &#x1F4C4; index.php
+   * &#x1F4C2; assets
+     * &#x1F4C2; css
+       * &#x1F4C4; style.css
+     * &#x1F4C2; js
+       * &#x1F4C4; script.js
+     * &#x1F4C2; rsc
+       * &#x1F4C2; audio
+       * &#x1F4C2; fonts
+       * &#x1F4C2; img
+       * &#x1F4C2; files
+       * &#x1F4C2; video
+   * &#x1F4C2; includes
+     * &#x1F4C4; connect.inc.php
+   * &#x1F4C4; close.php
+   * &#x1F4C4; index.php
 
 ### `Full-stack`: Prepared for Full-stack Developers.
 
