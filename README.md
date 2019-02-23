@@ -69,7 +69,7 @@ For now, you will find four different templates:
        * &#x1F4C2; files
        * &#x1F4C2; video
    * &#x1F4C2; includes
-     * &#x1F4C4; connect.inc.php
+     * &#x1F4C4; connection.inc.php
    * &#x1F4C4; close.php
    * &#x1F4C4; index.php
 
