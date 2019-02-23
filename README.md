@@ -26,7 +26,7 @@ For now, you will find four different templates:
 
 ### Getting Started
 
-#### Prerequisites (only Backend & Full-stack)
+#### Prerequisites (Backend & Full-stack only)
 
 ------------------
 
