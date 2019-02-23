@@ -1,7 +1,7 @@
 TeDe - Templates for Development
 ==========================
 
-https://img.shields.io/badge/version-1.0.0-blue.svg
+
 
 In 0s, we have created **"TeDe"** for all kind of developers. We have implemented basic file templates to use HTML, CSS, Javascript and PHP. In the future we will include templates with technologies like Bootstrap, Font-Awesome and many more.
 
@@ -21,6 +21,16 @@ For now, you will find four different templates:
 | Frontend | YES | YES | YES | NO | NO | NO | NO | NO |
 | Backend | YES | YES | NO | NO | NO | NO | YES | NO |
 | Full-stack | YES | YES | YES | NO | NO | NO | YES | NO |
+
+------------------
+
+### Getting Started
+
+#### Prerequisites
+
+------------------
+
+### Instalation
 
 ------------------
 
@@ -78,3 +88,28 @@ For now, you will find four different templates:
 ### `Full-stack`: Prepared for Full-stack Developers.
 
    *In process*
+
+
+------------------
+
+### Contributing
+
+------------------
+
+### FAQ
+
+------------------
+
+### Support
+
+------------------
+
+### Author
+
+------------------
+
+### License
+
+------------------
+
+### Acknowledgments
